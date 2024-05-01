@@ -20,9 +20,12 @@ This smart contract is designed to allow users to deposit collateral (in USDC or
 
 ## How to Interact with the Contract
 
-### Deployment
+### Deployment on Amoy Testnet
 
-1. Deploy the smart contract to any EVM network (e.g., Ethereum mainnet, Rinkeby testnet, etc.).
+1. Vault - [https://www.oklink.com/amoy/address/0x63deff6834c1a844dbcf8d809666d8b97661d393](https://www.oklink.com/amoy/address/0x63deff6834c1a844dbcf8d809666d8b97661d393)
+2. PriceFeed - [https://www.oklink.com/amoy/address/0x38d7593dc1404b7811f28acb63c185e03e0dfab9](https://www.oklink.com/amoy/address/0x38d7593dc1404b7811f28acb63c185e03e0dfab9)
+3. WETH - [https://www.oklink.com/amoy/address/0x2484d205c0e4e17d187c6a5992b81eff606fa1d0](https://www.oklink.com/amoy/address/0x2484d205c0e4e17d187c6a5992b81eff606fa1d0)
+4. USDC - [https://www.oklink.com/amoy/address/0xa660499c69c984d95c4fc1da035aad7679439413](https://www.oklink.com/amoy/address/0xa660499c69c984d95c4fc1da035aad7679439413)
 
 ### Interaction
 
